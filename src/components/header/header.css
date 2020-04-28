@@ -1,0 +1,17 @@
+header {
+  width: 100%;
+  background-color: #facb0b;
+  display: flex;
+  height: 140px;
+  flex-direction: row;
+  align-items: center;
+}
+
+.header-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: var(--maxWidthDesktop);
+}
