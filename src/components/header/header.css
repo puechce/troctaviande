@@ -1,6 +1,7 @@
 header {
   width: 100%;
   background-color: #facb0b;
+  /* border-bottom: 5px solid #facb0b; */
   display: flex;
   height: 140px;
   flex-direction: row;
@@ -13,5 +14,10 @@ header {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  max-width: var(--maxWidthDesktop);
+  margin: 0 auto;
+}
+
+.logo {
+  height: 120px;
+  width: 120px;
 }
