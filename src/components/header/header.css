@@ -17,6 +17,21 @@ header {
 }
 
 .logo {
-  height: 120px;
-  width: 120px;
+  height: 200px;
+  width: 300px;
+  margin-top: 2em;
+  margin-left: -3em;
+}
+
+.aubergine {
+  margin-top: 25%;
+  margin-left: 10%;
+}
+
+.title {
+  margin-top: 8em;
+  margin-left: 10%;
+  font-size: 300%;
+  position : absolute;
+  width: 60%;
 }
