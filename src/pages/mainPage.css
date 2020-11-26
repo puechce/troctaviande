@@ -1,7 +1,7 @@
 .main-page-body {
   display: flex;
   flex-direction: column;
-  color: black;
+  color: white;
 }
 
 .main-page-center {

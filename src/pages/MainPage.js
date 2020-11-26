@@ -6,7 +6,7 @@ function MainPage() {
   return (
     <div className="main-page-body">
       <div className="main-page-center">
-        <h1>Sélectionner une recette mythique</h1>
+        <h1>Sélectionner une recette nulle</h1>
         <input id="recepie-sb"></input>
         <h1>Surprends moi !!</h1>
         <button className="mode-button">Générer une recette aléatoire</button>
