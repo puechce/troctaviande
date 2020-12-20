@@ -1,8 +1,8 @@
 .main-page-body {
   display: flex;
   flex-direction: column;
-  color: white;
-  margin-top: 20em;
+  color: grey;
+  margin-top: 35%;
 }
 
 .main-page-center {
@@ -31,7 +31,7 @@ input#recepie-sb {
   outline: none;
   border-radius: 10px;
   height: 50px;
-  background: #facb0b;
+  background: #E4FAB3;
   border: none;
   width: 200px;
   /* text-align: center; */
@@ -39,10 +39,11 @@ input#recepie-sb {
   transition: 0.3s;
   transition-timing-function: ease-in-out;
   text-transform: uppercase;
+  margin-top: 10%;
 }
 
 .mode-button {
-  background: #facb0b;
+  background: #E4FAB3;
   border-radius: 5px;
   color: gray;
   padding: 14px;
@@ -52,3 +53,25 @@ input#recepie-sb {
   border: none;
   cursor: pointer;
 }
+
+.poireau {
+  width: 50%;
+  margin-right: 100%;
+  margin-top: 50%;
+  float: left;
+}
+
+.recette{
+  margin-left: 50%;
+  display: inline;
+  margin-top: -50%;
+}
+
+.blog {
+  margin-top: 30%;
+}
+
+.aleatoire {
+  margin-top: 30%;
+}
+
