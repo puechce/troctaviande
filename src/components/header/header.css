@@ -4,6 +4,7 @@ header {
   height: 140px;
   flex-direction: row;
   align-items: center;
+  background: linear-gradient(0deg, #51aa51 0%, #40bb65 100%);
 }
 
 .header-section {
@@ -14,9 +15,30 @@ header {
   width: 100%;
   margin: 0 auto;
   color: white;
+  background: linear-gradient(0deg, #51aa51 0%, #40bb65 100%);
+
 }
 
 .logo {
-  height: 120px;
-  width: 120px;
+  height: 200px;
+  width: 300px;
+  margin-top: 2em;
+  margin-left: -3em;
+}
+
+.aubergine {
+  margin-top: 25%;
+  margin-left: 10%;
+}
+
+.title {
+  margin-top: 8em;
+  margin-left: 10%;
+  font-size: 300%;
+  position : absolute;
+  width: 60%;
+}
+
+.poivron {
+  width: 10%;
 }
